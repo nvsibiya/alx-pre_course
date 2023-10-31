@@ -18,3 +18,5 @@ This directory contains the tasks for the 0x01. Git project done as part of the 
 + How to merge branches
 + How to work as collaborators on a project
 + Which files should and which files should not appear in your repo
+
++ needed to add an update for task 4.
